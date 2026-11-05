@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # Controlador de Jogo de Corrida por Webcam
 
 Controle um jogo de corrida com as mãos, sem teclado: a webcam rastreia as duas mãos em tempo real e converte gestos em comandos de teclado. Desenvolvido e testado com **Need for Speed Heat**.
